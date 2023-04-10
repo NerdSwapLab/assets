@@ -1,0 +1,20 @@
+{
+  "name": "NerdSwap Token List",
+  "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+  },
+  "logoURI": "https://assets.nerdswap.io/tokens/logo.png",
+  "timestamp": "2023-04-10T14:15:22+0000",
+  "tokens": [
+      {
+          "name": "USDC",
+          "chainId": 324,
+          "symbol": "USDC",
+          "decimals": 6,
+          "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
+          "logoURI": "https://assets.nerdswap.io/tokens/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4/logo.png"
+      }
+  ]
+}
